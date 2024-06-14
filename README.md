@@ -1,5 +1,5 @@
 
-ARL Association Rule Based Recommender System (Retail)
+# ARL Association Rule Based Recommender System (Retail)
 
 ## Business Problem
 
